@@ -1,5 +1,5 @@
 from turtle import *
-color('red', 'yellow')
+color('blue', 'green')
 begin_fill()
 while True:
     forward(200)
@@ -8,4 +8,4 @@ while True:
         break
 end_fill()
 done()
-print hola yo soy mateo
+print holaaa
